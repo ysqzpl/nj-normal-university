@@ -1,2 +1,2 @@
 print("zpl")
-print(666)
+print("zpl2")
